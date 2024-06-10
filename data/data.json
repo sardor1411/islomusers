@@ -1,0 +1,66 @@
+{
+    "back-end": [
+            { "id": 1, "name": "Ali", "age": 35, "number": 998915957421 },
+            { "id": 2, "name": "Sarvar", "age": 10, "number": 998915957421},
+            { "id": 3, "name": "Javlon", "age": 24, "number": 998915957421},
+            { "id": 4, "name": "Shag'boz", "age": 11, "number": 998915957421},
+            { "id": 5, "name": "Mumin", "age": 19, "number": 998915957421},
+            { "id": 6, "name": "Sevara", "age": 47, "number": 998915957421 },
+            { "id": 7, "name": "Malika", "age": 25, "number": 998915957421},
+            { "id": 8, "name": "Anvar", "age": 74, "number": 998915957421},
+            { "id": 9, "name": "Abdulla", "age": 89, "number": 998915957421},
+            { "id": 10, "name": "Samandar", "age": 19, "number": 998915957421}
+        ],
+
+    "front-end": [
+            { "id": 1, "name": "Soliha", "age": 17, "number": 998915957421 },
+            { "id": 2, "name": "Ikrom", "age": 15, "number": 998915957421},
+            { "id": 3, "name": "Mahammad", "age": 14, "number": 998915957421},
+            { "id": 4, "name": "Asad", "age": 11, "number": 998915957421},
+            { "id": 5, "name": "Ahmad", "age": 19, "number": 998915957421},
+            { "id": 6, "name": "Muslima", "age": 17, "number": 998915957421 },
+            { "id": 7, "name": "Sharzod", "age": 15, "number": 998915957421},
+            { "id": 8, "name": "Sayyora", "age": 14, "number": 998915957421},
+            { "id": 9, "name": "Sayyora", "age": 11, "number": 998915957421},
+            { "id": 10, "name": "Bobomurod", "age": 19, "number": 998915957421}
+        ],
+
+    "grafik-dizayn": [
+            { "id": 1, "name": "Sayyora", "age": 17, "number": 998915957421 },
+            { "id": 2, "name": "Sardor", "age": 15, "number": 998915957421},
+            { "id": 3, "name": "Javohir", "age": 14, "number": 998915957421},
+            { "id": 4, "name": "Shag'zod", "age": 11, "number": 998915957421},
+            { "id": 5, "name": "Bobomurod", "age": 19, "number": 998915957421},
+            { "id": 6, "name": "Sayyora", "age": 17, "number": 998915957421 },
+            { "id": 7, "name": "Sardor", "age": 15, "number": 998915957421},
+            { "id": 8, "name": "Javohir", "age": 14, "number": 998915957421},
+            { "id": 9, "name": "Shag'zod", "age": 11, "number": 998915957421},
+            { "id": 10, "name": "Bobomurod", "age": 19, "number": 998915957421}
+        ],
+
+    "robototexnika": [
+            { "id": 1, "name": "Akrom", "age": 17, "number": 998915957421 },
+            { "id": 2, "name": "Sardor", "age": 15, "number": 998915957421},
+            { "id": 3, "name": "Javohir", "age": 14, "number": 998915957421},
+            { "id": 4, "name": "Shag'zod", "age": 11, "number": 998915957421},
+            { "id": 5, "name": "Bobomurod", "age": 19, "number": 998915957421},
+            { "id": 6, "name": "Sayyora", "age": 17, "number": 998915957421 },
+            { "id": 7, "name": "Sardor", "age": 15, "number": 998915957421},
+            { "id": 8, "name": "Javohir", "age": 14, "number": 998915957421},
+            { "id": 9, "name": "Shag'zod", "age": 11, "number": 998915957421},
+            { "id": 10, "name": "Bobomurod", "age": 19, "number": 998915957421}
+        ],
+
+    "ofis-dasturlash": [
+            { "id": 1, "name": "Islom", "age": 17, "number": 998915957421 },
+            { "id": 2, "name": "Sardor", "age": 15, "number": 998915957421},
+            { "id": 3, "name": "Javohir", "age": 14, "number": 998915957421},
+            { "id": 4, "name": "Shag'zod", "age": 11, "number": 998915957421},
+            { "id": 5, "name": "Bobomurod", "age": 19, "number": 998915957421},
+            { "id": 6, "name": "Sarabek", "age": 17, "number": 998915957421 },
+            { "id": 7, "name": "Sardor", "age": 15, "number": 998915957421},
+            { "id": 8, "name": "Javohir", "age": 14, "number": 998915957421},
+            { "id": 9, "name": "Shag'zod", "age": 11, "number": 998915957421},
+            { "id": 10, "name": "Bobomurod", "age": 19, "number": 998915957421}
+        ]
+}
